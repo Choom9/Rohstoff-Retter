@@ -8,7 +8,8 @@ in die Mülltonne zu sortieren. Beim der Gestaltung des Spiels sollten die Heuri
 angewendet werden, bzw. wurden diese als Evaluationsgrundlage genutzt. 
 
 ## Demo
-xxx
+
+https://drive.google.com/file/d/154cbTiZ1hVtKxBDVPrGUeb-5eF8pMUa5/view?usp=sharing
 
 ## Nutzung von KI
 
