@@ -8,6 +8,8 @@ angewendet werden, bzw. wurden diese als Evaluationsgrundlage genutzt.
 
 ## Demo
 
+![Rohstoff-Retter Demo](RohstoffRetter.gif)
+
 https://drive.google.com/file/d/154cbTiZ1hVtKxBDVPrGUeb-5eF8pMUa5/view?usp=sharing
 
 ## Nutzung von KI
