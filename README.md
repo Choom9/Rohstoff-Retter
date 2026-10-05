@@ -3,7 +3,7 @@
 Rohstoff-Retter ist ein Serious Game für Kinder zu Mülltrennung, entstanden im Rahmen eines
 Forschungsprojekts der Uni. Der Spieler strandet auf einer Insel auf der dieser "Shelly" der Schildkröte begegnet. "Shelly" braucht Hilfe, um die Insel vom Müll zu befreien.
 Das Haupt Gameplay besteht daraus, durch Drag and Drop in einer Art Wimmelbild den richtigen Müll
-in die Mülltonne zu sortieren. Beim der Gestaltung des Spiels sollten die Heuristiken von Nielsen 
+in die Mülltonne zu sortieren. Bei der Gestaltung des Spiels sollten die Heuristiken von Nielsen 
 angewendet werden, bzw. wurden diese als Evaluationsgrundlage genutzt. 
 
 ## Demo
