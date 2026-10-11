@@ -2,7 +2,7 @@
 
 Rohstoff-Retter ist ein Serious Game für Kinder zu Mülltrennung, entstanden im Rahmen eines
 Forschungsprojekts der Uni. Der Spieler strandet auf einer Insel auf der dieser "Shelly" der Schildkröte begegnet. "Shelly" braucht Hilfe, um die Insel vom Müll zu befreien.
-Das Haupt Gameplay besteht daraus, durch Drag and Drop in einer Art Wimmelbild den richtigen Müll
+Das Haupt Gameplay besteht daraus, durch Drag and Drop, in einer Art Wimmelbild, den richtigen Müll
 in die Mülltonne zu sortieren. Bei der Gestaltung des Spiels sollten die Heuristiken von Nielsen 
 angewendet werden, bzw. wurden diese als Evaluationsgrundlage genutzt. 
 
@@ -18,8 +18,8 @@ Unsere Dozentin hat uns den Einsatz von Ki grundsätzlich erlaubt aber mit Grenz
 Simpel gesagt: - alles von Ki coden zu lassen war tabu - 
 KI solle als Hilfsmittel eingesetzt werden, zum Beispiel für Syntaxerklärungen oder fürs Degugging.
 Daran habe ich mich gehalten. Des weiteren habe ich die Aufgabe als Chance gesehen meine 
-Programmier Kenntnisse etwas zu erweitern. Dadurch bestand bei mir auch ein intrinsiches Motiv, 
-nicht alles agentisch machen zu lassen.
+Programmier-Kenntnisse etwas zu erweitern. Dadurch bestand bei mir auch ein intrinsiches Motiv, 
+nicht alles "agentisch" machen zu lassen.
 
 ## Funktionen
 
