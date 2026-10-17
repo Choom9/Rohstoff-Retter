@@ -1,8 +1,8 @@
 # Rohstoff-Retter
 
 Rohstoff-Retter ist ein Serious Game für Kinder zu Mülltrennung, entstanden im Rahmen eines
-Forschungsprojekts der Uni. Der Spieler strandet auf einer Insel auf der dieser "Shelly" der Schildkröte begegnet. "Shelly" braucht Hilfe, um die Insel vom Müll zu befreien.
-Das Haupt Gameplay besteht daraus, durch Drag and Drop, in einer Art Wimmelbild, den richtigen Müll
+Forschungsprojekts der Uni. Der Spieler strandet auf einer Insel, auf der dieser "Shelly" der Schildkröte begegnet. "Shelly" braucht Hilfe, um die Insel vom Müll zu befreien.
+Das Haupt-Gameplay besteht daraus, durch Drag and Drop, in einer Art Wimmelbild, den richtigen Müll
 in die Mülltonne zu sortieren. Bei der Gestaltung des Spiels sollten die Heuristiken von Nielsen 
 angewendet werden, bzw. wurden diese als Evaluationsgrundlage genutzt. 
 
@@ -44,11 +44,11 @@ C#
 ## Was ich gelernt habe
 
 - C# Kenntnisse
-- Usability Heuristiken von Nielsen anwenden
+- Anwendung von Usability Heuristiken von Nielsen 
 - Aufbauen von Verbindungen zwischen Scripten
 - "Sinnvolle" Funktionsverlagerung auf verschiedene Scripte
 - Programme mit Abläufen bauen (A passiert, dann passiert B... Wenn C, dann D...)
 - Umgang mit Unity Editor
-- 2D Spiele erstellen mit Unity
+- Erstellung von 2D Spielen mit Unity
 
 
